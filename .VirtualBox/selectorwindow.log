@@ -1,0 +1,18 @@
+00:00:01.262237 VirtualBox GUI VM Selector Window 6.1.30 r148432 win.amd64 (Nov 22 2021 15:15:30) release log
+00:00:01.262239 Log opened 2022-01-21T20:57:56.189950300Z
+00:00:01.262240 Build Type: release
+00:00:01.262244 OS Product: Windows 10
+00:00:01.262245 OS Release: 10.0.19043
+00:00:01.262246 OS Service Pack: 
+00:00:01.274330 DMI Product Name: 81FV
+00:00:01.279380 DMI Product Version: Lenovo Legion Y530-15ICH
+00:00:01.279391 Firmware type: BIOS
+00:00:01.279400 Host RAM: 8065MB (7.8GB) total, 3637MB (3.5GB) available
+00:00:01.279406 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:01.279407 Process ID: 15468
+00:00:01.279407 Package type: WINDOWS_64BITS_GENERIC
+00:00:01.279519 Qt version: 5.6.2
+00:00:01.300830 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:02.016648 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:02.082332 refreshCertificates/#3: Found 1/67 SSL certs we/you trust (previously 1/65).
+00:36:49.616377 GUI: UIMediumEnumerator: Medium-enumeration finished!

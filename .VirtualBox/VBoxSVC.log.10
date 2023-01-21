@@ -1,0 +1,87 @@
+00:00:00.002415 main     VirtualBox COM Server 6.1.30 r148432 win.amd64 (Nov 22 2021 15:15:30) release log
+00:00:00.002418 main     Log opened 2021-12-15T13:37:50.801835500Z
+00:00:00.002419 main     Build Type: release
+00:00:00.002424 main     OS Product: Windows 10
+00:00:00.002427 main     OS Release: 10.0.19043
+00:00:00.002427 main     OS Service Pack: 
+00:00:00.058231 main     DMI Product Name: 81FV
+00:00:00.068477 main     DMI Product Version: Lenovo Legion Y530-15ICH
+00:00:00.068485 main     Firmware type: BIOS
+00:00:00.068492 main     Host RAM: 8065MB (7.8GB) total, 3126MB (3.0GB) available
+00:00:00.068497 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.068497 main     Process ID: 9404
+00:00:00.068498 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.110388          VirtualBox: object creation starts
+00:00:00.110634          Home directory: 'C:\Users\LENOVO\.VirtualBox'
+00:00:00.110720          Installed Drivers:
+00:00:00.120385            C:\Windows\system32\DRIVERS\VBoxDrv.sys (Version: 6.1.30.48432)
+00:00:00.120969            C:\Windows\system32\DRIVERS\VBoxUSBMon.sys (Version: 6.1.30.48432)
+00:00:00.121540            C:\Windows\system32\DRIVERS\VBoxNetAdp6.sys (Version: 6.1.30.48432)
+00:00:00.122096            C:\Windows\system32\DRIVERS\VBoxNetLwf.sys (Version: 6.1.30.48432)
+00:00:00.122415          Loading settings file "C:\Users\LENOVO\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.124297          usbLibGetDevices: Starting USB device enumeration
+00:00:00.127063          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&599a2d3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 6
+00:00:00.127132          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&599a2d3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 14
+00:00:00.128817          usbLibGetDevices: Found 3 USB devices, 0 captured
+00:00:00.128886          USB: Unknown USB device detected (idVendor: 0x04f2, idProduct: 0xb604)
+00:00:00.128903          USB: Unknown USB device detected (idVendor: 0x0bda, idProduct: 0xb023)
+00:00:00.226119          HostDnsMonitor: initializing
+00:00:00.237675          HostDnsMonitor: updating information
+00:00:00.237698          HostDnsMonitor: old information
+00:00:00.237698            no server entries
+00:00:00.237699            no domain set
+00:00:00.237700            no search string entries
+00:00:00.237700          HostDnsMonitor: new information
+00:00:00.237700            server 1: 192.168.100.1
+00:00:00.237701            no domain set
+00:00:00.237701            no search string entries
+00:00:00.294499          VD: VDInit finished with VINF_SUCCESS
+00:00:00.295974          Loading settings file "C:\Users\LENOVO\VirtualBox VMs\Cliente-Linux\Cliente-Linux.vbox" with version "1.16-windows"
+00:00:00.297787          VirtualBox: object created
+00:00:15.417797          Launched VM: 26971072 pid: 9212 (0x23fc) frontend: GUI/Qt name: Cliente-Linux
+00:00:19.362293          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:00:19.607448          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:08:31.408041          Saving settings file "C:\Users\LENOVO\VirtualBox VMs\Cliente-Linux\Cliente-Linux.vbox" with version "1.16-windows"
+00:08:32.018299          Saving settings file "C:\Users\LENOVO\VirtualBox VMs\Cliente-Linux\Cliente-Linux.vbox" with version "1.16-windows"
+00:13:12.166667 dns-monitor HostDnsMonitor: updating information
+00:13:12.166694 dns-monitor HostDnsMonitor: unchanged
+00:23:22.098591 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:23:22.103386 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&599a2d3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 14
+00:23:22.103583 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:25:27.182039 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:25:27.185345 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&599a2d3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 6
+00:25:27.185631 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&599a2d3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 14
+00:25:27.186149 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:25:27.186258 USBPROXY USB: Unknown USB device detected (idVendor: 0x04f2, idProduct: 0xb604)
+00:28:12.212804 dns-monitor HostDnsMonitor: updating information
+00:28:12.212822 dns-monitor HostDnsMonitor: unchanged
+00:28:16.252308 dns-monitor HostDnsMonitor: updating information
+00:28:16.252333 dns-monitor HostDnsMonitor: unchanged
+00:31:20.742059 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:31:20.747098 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&599a2d3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 14
+00:31:20.747347 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:39:26.628300 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:39:26.631727 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&599a2d3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 6
+00:39:26.632036 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&599a2d3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 14
+00:39:26.632736 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:39:26.632964 USBPROXY USB: Unknown USB device detected (idVendor: 0x04f2, idProduct: 0xb604)
+00:43:12.272110 dns-monitor HostDnsMonitor: updating information
+00:43:12.272131 dns-monitor HostDnsMonitor: unchanged
+00:43:16.275912 dns-monitor HostDnsMonitor: updating information
+00:43:16.275932 dns-monitor HostDnsMonitor: unchanged
+00:58:12.319472 dns-monitor HostDnsMonitor: updating information
+00:58:12.319549 dns-monitor HostDnsMonitor: unchanged
+00:58:16.341532 dns-monitor HostDnsMonitor: updating information
+00:58:16.341551 dns-monitor HostDnsMonitor: unchanged
+01:13:12.372359 dns-monitor HostDnsMonitor: updating information
+01:13:12.372377 dns-monitor HostDnsMonitor: unchanged
+01:13:16.423536 dns-monitor HostDnsMonitor: updating information
+01:13:16.423561 dns-monitor HostDnsMonitor: unchanged
+01:26:43.323604          Saving settings file "C:\Users\LENOVO\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:26:43.328335          Saving settings file "C:\Users\LENOVO\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:26:48.866159 main     VirtualBox: object deletion starts
+01:26:48.866249 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\LENOVO\VirtualBox VMs\Cliente-Linux\Cliente-Linux.vmdk' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+01:26:48.868152 main     HostDnsMonitor: shutting down ...
+01:26:48.868293 main     HostDnsMonitor: shut down
+01:26:48.872072 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+01:26:48.872235 main     VirtualBox: object deleted

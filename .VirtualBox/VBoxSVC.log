@@ -1,0 +1,65 @@
+00:00:00.010288 main     VirtualBox COM Server 6.1.30 r148432 win.amd64 (Nov 22 2021 15:15:30) release log
+00:00:00.010297 main     Log opened 2022-01-21T20:57:55.247869500Z
+00:00:00.010299 main     Build Type: release
+00:00:00.010314 main     OS Product: Windows 10
+00:00:00.010316 main     OS Release: 10.0.19043
+00:00:00.010318 main     OS Service Pack: 
+00:00:00.145383 main     DMI Product Name: 81FV
+00:00:00.171011 main     DMI Product Version: Lenovo Legion Y530-15ICH
+00:00:00.171027 main     Firmware type: BIOS
+00:00:00.171041 main     Host RAM: 8065MB (7.8GB) total, 3655MB (3.5GB) available
+00:00:00.171051 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.171052 main     Process ID: 15848
+00:00:00.171053 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.322346          VirtualBox: object creation starts
+00:00:00.325199          Home directory: 'C:\Users\LENOVO\.VirtualBox'
+00:00:00.325586          Installed Drivers:
+00:00:00.331693            C:\Windows\system32\DRIVERS\VBoxNetLwf.sys (Version: 6.1.30.48432)
+00:00:00.334165            C:\Windows\system32\DRIVERS\VBoxUSBMon.sys (Version: 6.1.30.48432)
+00:00:00.335920            C:\Windows\system32\DRIVERS\VBoxDrv.sys (Version: 6.1.30.48432)
+00:00:00.338822            C:\Windows\system32\DRIVERS\VBoxNetAdp6.sys (Version: 6.1.30.48432)
+00:00:00.354533          Loading settings file "C:\Users\LENOVO\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.363730          usbLibGetDevices: Starting USB device enumeration
+00:00:00.366878          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&599a2d3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 6
+00:00:00.366975          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&599a2d3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 14
+00:00:00.369243          usbLibGetDevices: Found 3 USB devices, 0 captured
+00:00:00.372860          USB: Unknown USB device detected (idVendor: 0x04f2, idProduct: 0xb604)
+00:00:00.373108          USB: Unknown USB device detected (idVendor: 0x0bda, idProduct: 0xb023)
+00:00:00.783330          HostDnsMonitor: initializing
+00:00:00.797255          HostDnsMonitor: updating information
+00:00:00.797657          HostDnsMonitor: old information
+00:00:00.797658            no server entries
+00:00:00.797659            no domain set
+00:00:00.797660            no search string entries
+00:00:00.797660          HostDnsMonitor: new information
+00:00:00.797661            server 1: 192.168.100.1
+00:00:00.797662            no domain set
+00:00:00.797662            no search string entries
+00:00:00.866951          VD: VDInit finished with VINF_SUCCESS
+00:00:00.882879          Loading settings file "C:\Users\LENOVO\VirtualBox VMs\Cliente-Linux\Cliente-Linux.vbox" with version "1.16-windows"
+00:00:00.890778          VirtualBox: object created
+00:00:05.241732          Saving settings file "C:\Users\LENOVO\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:05.267871          Saving settings file "C:\Users\LENOVO\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:09.255789          Launched VM: 74892576 pid: 16924 (0x421c) frontend: GUI/Qt name: Cliente-Linux
+00:00:16.754263          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:00:17.535860          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:09:51.128142 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:09:51.131367 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&599a2d3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 6
+00:09:51.131650 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&599a2d3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 14
+00:09:51.132439 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:12:47.102038 dns-monitor HostDnsMonitor: updating information
+00:12:47.102074 dns-monitor HostDnsMonitor: unchanged
+00:27:47.148788 dns-monitor HostDnsMonitor: updating information
+00:27:47.148817 dns-monitor HostDnsMonitor: unchanged
+00:36:48.569515          Saving settings file "C:\Users\LENOVO\VirtualBox VMs\Cliente-Linux\Cliente-Linux.vbox" with version "1.16-windows"
+00:36:49.272608          Saving settings file "C:\Users\LENOVO\VirtualBox VMs\Cliente-Linux\Cliente-Linux.vbox" with version "1.16-windows"
+00:36:50.198030          Saving settings file "C:\Users\LENOVO\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:36:50.210382          Saving settings file "C:\Users\LENOVO\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:36:50.237244          Saving settings file "C:\Users\LENOVO\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:36:50.245302          Saving settings file "C:\Users\LENOVO\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:36:55.779822 main     VirtualBox: object deletion starts
+00:36:55.781378 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\LENOVO\VirtualBox VMs\Cliente-Linux\Cliente-Linux.vmdk' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:36:55.786946 main     HostDnsMonitor: shutting down ...
+00:36:55.787186 main     HostDnsMonitor: shut down
+00:36:55.794027 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:36:55.794432 main     VirtualBox: object deleted
